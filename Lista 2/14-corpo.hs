@@ -1,0 +1,1 @@
+corpo (x:xs) = (reverse (tail (reverse(x:xs))))

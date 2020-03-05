@@ -1,0 +1,1 @@
+maiores_que a xs = [x | x <- xs, x > a]
