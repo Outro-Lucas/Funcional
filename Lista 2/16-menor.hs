@@ -1,0 +1,1 @@
+menores a xs = [x | x <- xs, x <= a]
